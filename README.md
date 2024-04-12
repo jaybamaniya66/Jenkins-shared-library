@@ -2,7 +2,7 @@
 
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-Normal Jenkinsfile you can use this one without the shared library
+Normal Jenkinsfile you can use this one without the shared library:
 
   ```bash
 
@@ -107,4 +107,5 @@ Normal Jenkinsfile you can use this one without the shared library
     
     
    ```
+
 
